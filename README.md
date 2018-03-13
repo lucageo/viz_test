@@ -1,2 +1,2 @@
-# viz_test
-viz_test
+# Coding Challenge Viz
+Demo: https://lucageo.github.io/viz_test/initializr/index.html
